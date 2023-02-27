@@ -1,3 +1,4 @@
-###  MEHRINISA_USMAN 
+###   <a href="https://mehrinisausman.netlify.app/">MEHRINISA_USMAN</a>
 
-<img src="./mehri.png" alt="">
+
+<img src="./mehrinisa_usman.jpg" alt="">
